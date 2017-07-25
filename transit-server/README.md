@@ -14,7 +14,14 @@ callback( {"result":"success"} )
 - 也不支持其他跨域方式
 - 感觉这个接口可能刚开始做，短期内很难被开发人员修改。
 ## translator api
+### 用法
 GET
 ```
 http://127.0.0.1:3000/translator?word=success
 ```
+### 说明
+- 仅支持英译汉
+
+### Example
+
+example文件夹
